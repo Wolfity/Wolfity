@@ -1,8 +1,8 @@
 ### Hello 👋
 
 
-I am Wolfity, an 19 year old Java/Kotlin Developer. 
-I am currently a second year Application Development student. In my free time I like to watch Netflix and code minigames for minecraft. 
+I am Wolfity, an 20 year old Java/Kotlin Developer. 
+I have a bachelor in Applied Informatics, In my free time I like to watch Netflix and code minigames for minecraft. 
 
 ### Socials 
 Get in contact with me\
